@@ -1,0 +1,1 @@
+Nothing should be ignored based on the provided file changes. The changes only include a .gitignore file addition and a README.md modification, which are both source/config files that should be tracked in version control.
